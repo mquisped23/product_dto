@@ -1,0 +1,8 @@
+com\edu\service\ProductoService.class
+com\edu\ProductEjempDtoApplication.class
+com\edu\controller\ProductoController.class
+com\edu\dto\ProductoResponseDTO.class
+com\edu\repository\ProductoRepository.class
+com\edu\service\ProductoServiceImpl.class
+com\edu\entity\Producto.class
+com\edu\dto\ProductoRequestDTO.class
